@@ -1,2 +1,2 @@
-# colourfull-trex
-game created using p5 library
+# PROC18-V3ColorfullTrex
+Colorful Trex
